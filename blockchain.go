@@ -2,7 +2,7 @@ package blockchain
 
 import (
     "fmt"
-    "log"
+//    "log"
 
     //"github.com/ethereum/go-ethereum/ethclient"
 )
